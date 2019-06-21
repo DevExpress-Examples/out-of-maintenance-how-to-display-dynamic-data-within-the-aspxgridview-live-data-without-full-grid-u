@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to display dynamic data within the ASPxGridView (Live Data) without full grid updating using the ASPxCallback control
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4326/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to implement live data grid updating without refreshing the entire grid. This approach is useful if it is necessary to update only some ASPxGridView columns.</p><br />
