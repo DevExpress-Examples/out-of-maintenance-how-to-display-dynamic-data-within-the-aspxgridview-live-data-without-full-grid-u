@@ -4,8 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using DevExpress.Web.ASPxGridView;
-using DevExpress.Web.ASPxCallback;
+using DevExpress.Web;
 using System.Data;
 using System.Data.OleDb;
 
